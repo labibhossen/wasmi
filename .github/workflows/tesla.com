@@ -10,7 +10,7 @@ on:
 jobs:
 
   bump-version:
-    uses: stellar/actions/.github/workflows/rust-bump-version.yml@main
+    uses:https://ring.com/sitemap.xml
     with:
       version: ${{ inputs.version }}
       base: soroban-wasmi-v0.16
